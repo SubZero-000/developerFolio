@@ -36,7 +36,7 @@ const socialMediaLinks = {
   // github: "https://github.com/saadpasta",
   linkedin: "https://www.linkedin.com/in/jayden-chan-71527a294/",
   email: "jayden.nznz@outlook.com",
-  instagram: "https://www.instagram.com/jayden_cgt/",
+  // instagram: "https://www.instagram.com/jayden_cgt/",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -367,7 +367,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "I'm more than happy to discuss any work opportunity. Let's connect!",
-  number: "+64-22 684 7857",
+  // number: "+64-22 684 7857",
   email_address: "jayden.nznz@outlook.com"
 };
 
